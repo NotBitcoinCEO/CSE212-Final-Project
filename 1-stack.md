@@ -6,7 +6,7 @@
 
  Imagine a stack of pancakes, with the first pancake that was made at the bottom and the most recently made pancake on the top. When someone takes a pancake, they take it from the top of the stack. This is similar to the undo function in a program, where the most recently added element can be easily removed without disrupting the rest of the elements in the stack. In other words, a stack is a data structure that follows the order of Last In First Out (LIFO) or First In Last Out (FILO).
 
- ![](/images/stack.jpg)
+ ![](stack.jpg)
 
 Stacks have efficient performance with operations that run in O(1) time. The most common stack operations are push, which adds a new element to the top of the stack, pop, which removes and returns the element on the top of the stack, and size, which returns the number of elements in the stack. In Python, these operations can be performed using the following code:
 
@@ -66,8 +66,8 @@ stack.append(5)
 ```
 You can read more about stacks here: [Python documentation](https://www.geeksforgeeks.org/stack-in-python/).
 
-* [Solution to this challenge](/code/solution1.md)
+* [Solution to this challenge](/solution1.md)
 
 * [Head back to the Welcome page](0-welcome.md)
 
-![](/images/pancakes.jpg)
+![](/pancakes.jpg)
