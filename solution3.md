@@ -1,11 +1,6 @@
 # Solution 3
 
-# create a binary search tree with the following structure:
-#       5
-#      / \
-#     2   7
-#        / \
-#       6   8
+![](/binary.jpg)
 
 class Node:
     def __init__(self, val):
