@@ -16,12 +16,12 @@ root.right.left = Node(6)
 root.right.right = Node(8)
 ```
 
-# find max value in tree
+## Find max value in tree
 ```python
 max_val = find_max(root)
 ```
 
-# answer
+## Answer
 ```python
 print(max_val) # outputs 8
 ```
