@@ -64,4 +64,4 @@ There are many other operations that you can perform on sets in Python, such as 
 
 * [Head back to the Welcome page](0-welcome.md)
 
-![](/images/set.jpg)
+![](/set.jpg)
