@@ -16,4 +16,4 @@ Sean Layton
 BYU Idaho - CSE 212 - Section 5
 seanryan@byui.edu
 
-![me](images/justme.png)
+![me](justme.png)
