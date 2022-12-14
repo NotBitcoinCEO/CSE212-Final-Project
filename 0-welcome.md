@@ -1,6 +1,6 @@
 # PYTHON DATA STRUCTURES FINAL PROJECT
 
-Thank you for stopping by. In this project, I will show you some of the most common data structures which we were able to study this semester. These include Stacks, Sets, and Trees. I'll give examples in order to better expain what we've learned. 
+Thank you for stopping by. This is my final project for CSE 212. In this class we've been working on understanding Data Structures in Python. Here's some of the most common data structures which we were able to study this semester. These include Stacks, Sets, and Trees. The examples I give hopefully help you as well. 
 
 Here are the different tutorials:
 
