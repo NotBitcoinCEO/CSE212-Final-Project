@@ -4,13 +4,13 @@
 
 ## Introduction
 
-Today I'd like to discuss trees, a common data structure used in computer science. A tree is a hierarchical structure made up of nodes connected by pointers. The topmost node is called the root, and nodes that do not have any connections to other nodes are called leaves. The distance between two nodes is the least number of pointers that must be traversed to get from one node to the other. The level of a node is the distance between it and the root, and the height of a tree is the highest level of any node in the tree. Trees can be used to represent a variety of data, including file systems on a computer. In addition, subtrees can be created to focus on a smaller part of a larger tree.
+Trees are a common data structure used in computer science. A tree is a tree-like structure made up of nodes connected by pointers. The top-most node is called the root, and nodes that do not have any connections to other nodes are called leaves. The distance between two nodes is the least number of pointers that must be traversed to get from one node to the other. The level of a node is the distance between it and the root, and the height of a tree is the highest level of any node in the tree. Trees can be used to represent a variety of data, including file systems on a computer. In addition, subtrees can be created to focus on a smaller part of a larger tree.
 
 ## Binary Trees
 
-Binary trees are a type of tree in which each node is connected to a maximum of two other nodes. They're often used to organize data in a tree-like structure, and can be searched quickly using a process called a binary search. In a binary search, the data is first compared to the value of the root node. If the value being searched for is greater than the root node's value, the search moves to the right subtree, and if it is less than the root node's value, the search moves to the left subtree. This process is repeated until the value is found or it is determined that the value does not exist in the tree. Because the number of nodes that must be searched is halved with each step of the search, binary tree searches can be performed in O(log n) time, as long as the tree is balanced.
+In a binary search, the data is first compared to the value of the root node. If the value being searched for is greater than the root node's value, the search moves to the right subtree, and if it is less than the root node's value, the search moves to the left subtree. This process is repeated until the value is found or it is determined that the value does not exist in the tree. Because the number of nodes that must be searched is halved with each step of the search, binary tree searches can be performed in O(log n) time, as long as the tree is balanced.
 
-![](/images/tree.jpg)
+![](/tree.jpg)
 
 Here's an example of a Binary Tree:
 
@@ -126,7 +126,7 @@ tree_height = height(root)
 print(tree_height)
 ```
 
-* [Solution to this challenge](/code/solution3.md)
+* [Solution to this challenge](/solution3.md)
 
 
 * [Head back to the Welcome page](0-welcome.md)
