@@ -7,7 +7,7 @@ class Node:
         self.left = None
         self.right = None
 
-* Create a binary tree with a height of 3
+## Create a binary tree with a height of 3
 ```
 
 ```python
@@ -20,13 +20,13 @@ root.right.left = Node(6)
 root.right.right = Node(7)
 ```
 
-* Calculate the height of the binary tree
+## Calculate the height of the binary tree
 
 ```python
 tree_height = height(root)
 ```
 
-* Print the height of the binary tree
+## Print the height of the binary tree
 
 ```python
 print(tree_height)
